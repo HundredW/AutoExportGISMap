@@ -1,0 +1,2 @@
+# AutoExportGISMap
+基于ArcGIS的DataDrivePage接口，使用Arcpy自动化出图并批量裁剪
